@@ -1,0 +1,6 @@
+Instalación
+http://vimeo.com/9223070
+
+Al correr como Clojure . . .
+Escribir en consola lo que está entre corchetes.
+1:2 HelloWorld=> [(hello "pepe")]

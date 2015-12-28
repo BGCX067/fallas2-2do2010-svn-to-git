@@ -1,0 +1,27 @@
+* Instalacion de Jython
+--> Es necesario hacer esto si o si porque esta porqueria se compila con la jdk que tengan instalada!
+
+Para instalar Jython hay que ejecutar 
+
+java -jar jython_installer-2.5.2b1.jar
+esto instala jython en C:\jython2.5.2b1
+
+
+
+* plugin para codear con el eclipse
+(el plug in que tengo configurado es el JyDT, hay otros pero me funco con este :P)
+
+Seguir este link de como instalar el plugin
+http://www.redrobinsoftware.net/jydt/installation/installation.html
+
+
+Desde, una vez que tienen el plugin instalado y el proyecto que esta en el svn en la carpeta
+/sistema imporatdo en el eclipse tienen que verificar que jython este en el classpath
+
+para eso hay que hacer como este link 
+
+http://www.redrobinsoftware.net/jydt/gettingstarted/gettingstarted.html
+
+salvo que la ruta NO es C:\dev\jython-2.1  sino  C:\jython2.5.2b1
+
+
